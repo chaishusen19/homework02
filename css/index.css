@@ -1,0 +1,42 @@
+*{margin:0;padding: 0}
+.top{
+    height: 60px;
+    line-height: 60px;
+    background:pink;
+}
+.title{
+    text-align: center;
+    color: white;
+}
+.container{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container img{
+    width: 400px;
+    height: 250px;
+}
+.container h4{
+    line-height: 30px;
+}
+p{
+    text-indent: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+p:hover{
+    color: pink;
+}
+li{
+    padding: 5px;
+}
+li:hover{
+    color: aqua;
+}
+dt{
+    margin: 5px;
+}
+dl:hover{
+    color:seagreen;
+}
